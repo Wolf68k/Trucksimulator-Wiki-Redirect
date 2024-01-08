@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Redirect to New Truck Simulator Wiki
-// @namespace
+// @namespace    https://github.com/Wolf68k/Trucksimulator-Wiki-Redirect/blob/main/trucksimulatorwiki.user.js
 // @version      1.0
 // @description  Redirect automatically from the old Truck Simulator Wiki (Fandom) to the new Wiki
 // @author       Wolf68k
